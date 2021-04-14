@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+ <p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=thezaza101&count_private=true&show_icons=true&theme=buefy" alt="devded" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezaza101&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="devded" height="165" />
+ </p>
+ 
 <!--
 **thezaza101/thezaza101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
